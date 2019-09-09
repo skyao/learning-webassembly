@@ -1,4 +1,9 @@
-# WebAssembly学习笔记
+---
+date: 2018-12-04T23:00:00+08:00
+title: 前言
+weight: 1
+description : "介绍WebAssembly语言学习笔记的基本资料和访问方式"
+---
 
 ### 内容介绍
 
@@ -16,4 +21,5 @@ WebAssembly是由W3C Community Group开发的开放标准。
 ### 版权申明
 
 本笔记内容可以任意转载，但请注明来源并提供链接，**请勿用于商业出版**。
+
 
