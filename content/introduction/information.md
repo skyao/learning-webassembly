@@ -16,7 +16,7 @@ description : "WebAssembly信息"
 
 ## 社区
 
-
+- [WebAssembly Hub](https://webassemblyhub.io/): 用于构建，部署，共享和发现 Envoy 和 Istio 的 Envoy Proxy Wasm 扩展的工具和存储库
 
 ## 文档
 
@@ -28,3 +28,4 @@ description : "WebAssembly信息"
 
 ## 资源
 
+- [Awesome WebAssembly Languages](https://github.com/appcypher/awesome-wasm-langs): 可直接编译为 WebAssembly 或在有VM可以在 WebAssembly 中使用的编程语言精选列表。比较感兴趣的是： TinyGo / AssemblyScript 。
