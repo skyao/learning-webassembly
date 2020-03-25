@@ -63,6 +63,17 @@ googleAnalytics = "c7442f5794ea2abb71c6ff05dc0b8779"
 	url    = "/introduction/"
 	weight = 100
 
+[[menu.main]]
+	name   = "warmer"
+	identifier = "warmer"
+	url    = "/warmer/"
+	weight = 2000
+
+[[menu.main]]
+	name   = "Faasm"
+	identifier = "faasm"
+	url    = "/faasm/"
+	weight = 2100
 
 [blackfriday]
 	smartypants	= true
