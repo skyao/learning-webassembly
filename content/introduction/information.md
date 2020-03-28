@@ -18,6 +18,16 @@ description : "WebAssembly信息"
 
 - [WebAssembly Hub](https://webassemblyhub.io/): 用于构建，部署，共享和发现 Envoy 和 Istio 的 Envoy Proxy Wasm 扩展的工具和存储库
 
+社区各种 wasm runtime：
+
+- wasmtime： JIT
+- lucet: 即将合并到 wasmtime： AOT
+- wasm-micro-runtime：interpreter，JIT，AoT
+- wasmer：JIT
+- life：golang，AoT，interpreter
+- wavm：JIT
+- wasm3：interpreter
+
 ## 文档
 
 

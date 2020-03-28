@@ -64,10 +64,17 @@ googleAnalytics = "c7442f5794ea2abb71c6ff05dc0b8779"
 	weight = 100
 
 [[menu.main]]
-	name   = "warmer"
-	identifier = "warmer"
-	url    = "/warmer/"
+	name   = "Wasmer"
+	identifier = "wasmer"
+	url    = "/wasmer/"
 	weight = 2000
+
+[[menu.main]]
+	name   = "Wasmer文档"
+	identifier = "wasmer-docs"
+	parent = "wasmer"
+	url    = "/wasmer/docs/"
+	weight = 2010
 
 [[menu.main]]
 	name   = "Faasm"
