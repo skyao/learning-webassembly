@@ -64,6 +64,33 @@ googleAnalytics = "c7442f5794ea2abb71c6ff05dc0b8779"
 	weight = 100
 
 [[menu.main]]
+	name   = "规范"
+	identifier = "spec"
+	url    = "/spec/"
+	weight = 200
+
+[[menu.main]]
+	name   = "核心规范"
+	identifier = "spec-core"
+	url    = "/spec/core/"
+	parent = "spec"
+	weight = 210
+
+[[menu.main]]
+	name   = "Image规范"
+	identifier = "spec-image"
+	url    = "/spec/image/"
+	parent = "spec"
+	weight = 260
+
+[[menu.main]]
+	name   = "提案"
+	identifier = "proposal"
+	url    = "/proposal/"
+	weight = 400
+
+
+[[menu.main]]
 	name   = "Wasmer"
 	identifier = "wasmer"
 	url    = "/wasmer/"
