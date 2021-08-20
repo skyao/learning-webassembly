@@ -1,8 +1,8 @@
 ---
 date: 2020-05-13T18:00:00+08:00
-title: 核心规范
-weight: 210
-description : "Wasm核心规范"
+title: 核心规范概述
+weight: 211
+description : "Wasm核心规范概述"
 ---
 
 https://webassembly.github.io/spec/core/

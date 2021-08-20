@@ -1,9 +1,6 @@
 ---
 date: 2019-09-08T18:00:00+08:00
 title: Wasmer Runtime
-menu:
-  main:
-    parent: "wasmer-docs"
 weight: 2011
 description : "Wasmer Runtime文档"
 ---

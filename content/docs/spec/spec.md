@@ -1,8 +1,8 @@
 ---
 date: 2020-05-13T18:00:00+08:00
-title: 规范
-weight: 200
-description : "Wasm规范"
+title: 规范概述
+weight: 201
+description : "Wasm规范概述"
 ---
 
 Wasm规范内容：

@@ -1,8 +1,8 @@
 ---
 date: 2019-09-08T18:00:00+08:00
-title: WebAssembly介绍
-weight: 100
-description : "WebAssembly介绍"
+title: WebAssembly概述
+weight: 101
+description : "WebAssembly概述"
 ---
 
 

@@ -1,8 +1,8 @@
 ---
 date: 2020-05-13T18:00:00+08:00
-title: WASM Image规范
-weight: 260
-description : "Wasm镜像规范"
+title: WASM Image规范概述
+weight: 261
+description : "Wasm镜像规范概述"
 ---
 
 

@@ -1,9 +1,6 @@
 ---
 date: 2019-09-08T18:00:00+08:00
 title: Wapm
-menu:
-  main:
-    parent: "wasmer-docs"
 weight: 2013
 description : "Wasmer WAPM文档"
 ---
