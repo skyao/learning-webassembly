@@ -1,5 +1,5 @@
 ---
-title: "Learning WebAssembly"
+title: "学习笔记"
 linkTitle: "学习笔记"
 weight: 1
 menu:
@@ -7,6 +7,4 @@ menu:
     weight: 20
     pre: <i class='fas fa-book'></i>
 date: 2021-01-18
-description: >
-  Hugo学习笔记
 ---
